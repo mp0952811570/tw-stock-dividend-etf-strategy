@@ -1,0 +1,11 @@
+# Streamlit Cloud 設定
+[server]
+maxUploadSize = 200
+
+[theme]
+base = "dark"
+primaryColor = "#f0b90b"
+backgroundColor = "#1a1f2e"
+secondaryBackgroundColor = "#222838"
+textColor = "#e8e8e8"
+font = "sans serif"
