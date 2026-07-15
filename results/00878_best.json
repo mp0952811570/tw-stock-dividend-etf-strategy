@@ -1,0 +1,31 @@
+{
+  "final_value": 1026459.0,
+  "total_return_pct": 2.65,
+  "annual_return_pct": 0.54,
+  "win_rate": 87.9,
+  "num_trades": 33,
+  "wins": 29,
+  "losses": 4,
+  "avg_win": 5570.0,
+  "avg_loss": -33346.0,
+  "max_drawdown_pct": 9.95,
+  "score": 32.33,
+  "num_all_trades": 46,
+  "etf_id": "00878",
+  "etf_name": "國泰永續高股息",
+  "all_results_count": 96,
+  "params": {
+    "entry_days_before": 15,
+    "entry_ma": 20,
+    "entry_rsi_max": 65,
+    "entry_rsi_min": 30,
+    "add_days_after": 10,
+    "add_rsi_max": 40,
+    "add_rsi_min": 25,
+    "partial_rsi": 75,
+    "sell_ma": 5,
+    "stop_loss_pct": 3,
+    "extreme_rsi": 85,
+    "extreme_black": 3
+  }
+}

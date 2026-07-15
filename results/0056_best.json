@@ -1,0 +1,31 @@
+{
+  "final_value": 1266316.0,
+  "total_return_pct": 26.63,
+  "annual_return_pct": 5.02,
+  "win_rate": 100.0,
+  "num_trades": 12,
+  "wins": 12,
+  "losses": 0,
+  "avg_win": 20800.0,
+  "avg_loss": 0,
+  "max_drawdown_pct": 4.08,
+  "score": 40.28,
+  "num_all_trades": 16,
+  "etf_id": "0056",
+  "etf_name": "元大高股息",
+  "all_results_count": 96,
+  "params": {
+    "entry_days_before": 15,
+    "entry_ma": 20,
+    "entry_rsi_max": 55,
+    "entry_rsi_min": 30,
+    "add_days_after": 10,
+    "add_rsi_max": 50,
+    "add_rsi_min": 25,
+    "partial_rsi": 80,
+    "sell_ma": 5,
+    "stop_loss_pct": 3,
+    "extreme_rsi": 85,
+    "extreme_black": 3
+  }
+}

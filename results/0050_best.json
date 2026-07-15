@@ -1,0 +1,31 @@
+{
+  "final_value": 1133572.0,
+  "total_return_pct": 13.36,
+  "annual_return_pct": 2.63,
+  "win_rate": 92.9,
+  "num_trades": 14,
+  "wins": 13,
+  "losses": 1,
+  "avg_win": 13761.0,
+  "avg_loss": -36138.0,
+  "max_drawdown_pct": 5.48,
+  "score": 36.29,
+  "num_all_trades": 20,
+  "etf_id": "0050",
+  "etf_name": "元大台灣50",
+  "all_results_count": 96,
+  "params": {
+    "entry_days_before": 20,
+    "entry_ma": 20,
+    "entry_rsi_max": 65,
+    "entry_rsi_min": 30,
+    "add_days_after": 10,
+    "add_rsi_max": 50,
+    "add_rsi_min": 25,
+    "partial_rsi": 75,
+    "sell_ma": 5,
+    "stop_loss_pct": 3,
+    "extreme_rsi": 85,
+    "extreme_black": 3
+  }
+}
